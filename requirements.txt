@@ -1,0 +1,10 @@
+tensorflow
+matplotlib
+pandas
+seaborn
+flask
+flask-bootstrap
+werkzeug
+scikit-learn
+numpy
+opencv-python-headless
